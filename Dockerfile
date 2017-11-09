@@ -47,4 +47,3 @@ RUN eval "$(rbenv init -)" \
 RUN eval "$(rbenv init -)" \
  && rbenv install 2.4.2
 
-RUN 
